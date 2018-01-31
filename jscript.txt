@@ -1,0 +1,88 @@
+#Notes for JavaScript by Ethan Henderson
+
+Hide elements:
+	document.getElementById("name").style.display = "none";
+
+
+	"block" for showing elements
+have to use 
+<script>
+.....
+</script>
+
+can put in <head> or <body>
+
+
+javascript files end in .js
+
+use script tags to add several script files on one page
+
+<script src="myScript1.js"></script>
+
+Writing into an HTML element (display): 
+	document.getElementById("filename").innerHTML = 5 + 6;
+
+Writing into the HTML output using document.write() (display):
+	<script>
+	document.write(5 + 6);
+	</script>  erases what is already on the screen
+
+
+Writing into an alert box, using window.alert() (appears as a pop up notification):
+	window.alert(5 + 6);
+
+Writing into the browser console, using console.log() (writes to the debugging console (hit f12)):
+	console.log(5 + 6);
+
+variables are the same as always
+but use var varname = 3 or "Hege"
+
+Statements to be written to screen (strings etc) using innerHTML = "My String";
+
+It is common practice to avoid lines of code that are >80 characters
+
+JavaScript Keywords:
+
+break- terminates a switch or loop
+continue- jumps out of a loop and starts at the top
+dubugger- stops execution of JavaScript and calls (if available) the debugging function
+do .. while- Executes a block of statements, and repeats the block, while a condition is true
+for- marks a block of statements to be executed, as long as the condition is true
+function- declares a function
+if..else- marks a block of statemens to be executed , depending on a condition
+return- exits a function
+switch- marks a block of statements to be executed, depending on different cases (same as c++?)
+try...catch- implements error handling to a block of statements 
+var- declares a variable
+
+document.getElementById("demo").innerHTML = x * 10;
+
+comments are the same
+
+assignment and comparisson are same as well
+
+OG var is undefined
+
+can use =, +=, -=, *=, /=, %=
+
+adding a number to a string results in a string 
+
+=== is equal value and equal type
+
+!== is not equal value or not equal type
+
+operators:
+	typeof returns the type of a variable
+	instanceof returns true if an object is an instance of an object type
+
+bitwise operators:
+	& is AND
+	| is OR
+	~ is NOT
+	^ is XOR
+	<<  is Zero fill left shift 
+	>> is signed right shift 
+	>>> is zero fill right shift
+
+% is remainder
+
