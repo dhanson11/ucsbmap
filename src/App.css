@@ -9,8 +9,9 @@
 
 .App-header {
   background-color: #222;
-  height: 150px;
-  padding: 20px;
+  /* height: 150px; */
+  height: 10vh;
+  /* padding: 20px; */
   color: white;
 }
 
@@ -27,4 +28,4 @@
   to { transform: rotate(360deg); }
 }
 
-#map { height: 100vh;}
+#map { height: 90vh;}
