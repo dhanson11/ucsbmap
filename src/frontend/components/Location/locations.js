@@ -19,7 +19,10 @@ class Locations extends React.Component {
   
   setUpBuildings() {
     ucsbBuildings.features.forEach(building => {
-      if(building.properties.name && building.geometry.type === "Polygon"){
+      if(building.properties.name && building.geometry.type === "polygon" && !building.properties.type){
+        
+        if(building.properties.name === "Tower")
+          console.log(building);
         var corners = []
         
         building.geometry.coordinates.forEach(coordinates => {
@@ -39,7 +42,6 @@ class Locations extends React.Component {
   
   render() {
     var buildingComponents = this.buildings.map(building => {
-      console.log(building);
       return(
         <div>
           <Location name={building.name} positions={building.corners} />

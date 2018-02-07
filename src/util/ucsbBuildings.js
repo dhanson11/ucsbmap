@@ -12,10 +12,10 @@ var ucsbBuildings = {
         "name": "Marine Science Research Building",
         "name:en1": "MSRB",
         "ref": "520",
-        "type": "multipolygon"
+        "type": "multipolygon",
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -292,10 +292,10 @@ var ucsbBuildings = {
         "building": "university",
         "name": "Bren Hall",
         "ref": "521",
-        "type": "multipolygon"
+        "type": "multipolygon",
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -564,10 +564,10 @@ var ucsbBuildings = {
         "building": "university",
         "name": "Student Communications Building",
         "ref": "589",
-        "type": "multipolygon"
+        "type": "multipolygon",
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -651,10 +651,10 @@ var ucsbBuildings = {
         "building": "university",
         "name": "UCSB Student Health Center",
         "ref": "588",
-        "type": "multipolygon"
+        "type": "multipolygon",
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -949,10 +949,10 @@ var ucsbBuildings = {
         "building": "university",
         "name": "Phelps Hall",
         "ref": "560",
-        "type": "multipolygon"
+        "type": "multipolygon",
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -1098,10 +1098,10 @@ var ucsbBuildings = {
         "building": "university",
         "name": "Engineering 2",
         "ref": "503",
-        "type": "multipolygon"
+        "type": "multipolygon",
       },
       "geometry": {
-        "type": "MultiPolygon",
+        "type": "Multipolygon",
         "coordinates": [
           [
             [
@@ -1248,10 +1248,10 @@ var ucsbBuildings = {
         "building": "university",
         "name": "Engineering 1",
         "ref": "556",
-        "type": "multipolygon"
+        "type": "multipolygon",
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -1424,10 +1424,10 @@ var ucsbBuildings = {
         "building": "university",
         "name": "Faculty Club",
         "ref": "581",
-        "type": "multipolygon"
+        "type": "multipolygon",
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -1696,10 +1696,10 @@ var ucsbBuildings = {
         "building": "university",
         "name": "Tower",
         "ref": "586",
-        "type": "multipolygon"
+        "type": "multipolygon",
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -2028,10 +2028,10 @@ var ucsbBuildings = {
         "building": "university",
         "name": "Arts",
         "ref": "534",
-        "type": "multipolygon"
+        "type": "multipolygon",
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -2166,10 +2166,10 @@ var ucsbBuildings = {
         "building": "university",
         "name": "Music",
         "ref": "531",
-        "type": "multipolygon"
+        "type": "multipolygon",
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -2422,10 +2422,10 @@ var ucsbBuildings = {
         "building": "university",
         "name": "Woodhouse Laboratory",
         "ref": "546",
-        "type": "multipolygon"
+        "type": "multipolygon",
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -2492,7 +2492,7 @@ var ucsbBuildings = {
         "name": "UCSB Pavillion Gym"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -2528,7 +2528,7 @@ var ucsbBuildings = {
         "name": "El Centro"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -2573,7 +2573,7 @@ var ucsbBuildings = {
         "ref": "494"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -2666,7 +2666,7 @@ var ucsbBuildings = {
         "name": "Embarcadero Hall"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -2726,7 +2726,7 @@ var ucsbBuildings = {
         "source": "USGS Geonames"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -2817,7 +2817,7 @@ var ucsbBuildings = {
         "old_name": "Francisco Torres"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -2885,7 +2885,7 @@ var ucsbBuildings = {
         "name": "Central Stores"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -2937,7 +2937,7 @@ var ucsbBuildings = {
         "name": "Arrowhead"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -3021,7 +3021,7 @@ var ucsbBuildings = {
         "name": "Bradbury"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -3073,7 +3073,7 @@ var ucsbBuildings = {
         "name": "Castaic"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -3121,7 +3121,7 @@ var ucsbBuildings = {
         "name": "Donner"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -3173,7 +3173,7 @@ var ucsbBuildings = {
         "name": "Encino"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -3234,7 +3234,7 @@ var ucsbBuildings = {
         "ref": "314"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -3294,7 +3294,7 @@ var ucsbBuildings = {
         "util_fundi": "recharge"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -3367,7 +3367,7 @@ var ucsbBuildings = {
         "ref": "569"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -3412,7 +3412,7 @@ var ucsbBuildings = {
         "ref": "540"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -3465,7 +3465,7 @@ var ucsbBuildings = {
         "ref": "540"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -3518,7 +3518,7 @@ var ucsbBuildings = {
         "ref": "540"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -3557,7 +3557,7 @@ var ucsbBuildings = {
         "website": "http://marineops.eemb.ucsb.edu/services/seawater-system"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -3610,7 +3610,7 @@ var ucsbBuildings = {
         "ref": "550"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -3647,7 +3647,7 @@ var ucsbBuildings = {
         "ref": "571"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -3708,7 +3708,7 @@ var ucsbBuildings = {
         "ref": "571"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -3761,7 +3761,7 @@ var ucsbBuildings = {
         "ref": "235"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -3818,7 +3818,7 @@ var ucsbBuildings = {
         "ref": "235"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -3987,7 +3987,7 @@ var ucsbBuildings = {
         "ref": "551"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -4024,7 +4024,7 @@ var ucsbBuildings = {
         "ref": "251"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -4133,7 +4133,7 @@ var ucsbBuildings = {
         "ref": "551"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -4173,7 +4173,7 @@ var ucsbBuildings = {
         "wheelchair": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -4234,7 +4234,7 @@ var ucsbBuildings = {
         "ref": "561"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -4415,7 +4415,7 @@ var ucsbBuildings = {
         "ref": "558"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -4532,7 +4532,7 @@ var ucsbBuildings = {
         "ref": "558"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -4729,7 +4729,7 @@ var ucsbBuildings = {
         "ref": "553"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -4962,7 +4962,7 @@ var ucsbBuildings = {
         "wheelchair": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -5151,7 +5151,7 @@ var ucsbBuildings = {
         "ref": "548"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -5292,7 +5292,7 @@ var ucsbBuildings = {
         "ref": "205"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -5345,7 +5345,7 @@ var ucsbBuildings = {
         "ref": "555"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -5461,7 +5461,7 @@ var ucsbBuildings = {
         "ref": "200"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -5513,7 +5513,7 @@ var ucsbBuildings = {
         "ref": "465"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -5582,7 +5582,7 @@ var ucsbBuildings = {
         "ref": "558"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -5707,7 +5707,7 @@ var ucsbBuildings = {
         "ref": "221"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -5981,7 +5981,7 @@ var ucsbBuildings = {
         "website": "http://eventscenter.ucsb.edu/index.php"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -6210,7 +6210,7 @@ var ucsbBuildings = {
         "ref": "515"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -6599,7 +6599,7 @@ var ucsbBuildings = {
         "ref": "434"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -6756,7 +6756,7 @@ var ucsbBuildings = {
         "ref": "599"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -6965,7 +6965,7 @@ var ucsbBuildings = {
         "ref": "275"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -7306,7 +7306,7 @@ var ucsbBuildings = {
         "ref": "276"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -7475,7 +7475,7 @@ var ucsbBuildings = {
         "ref": "275"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -7585,7 +7585,7 @@ var ucsbBuildings = {
         "ref": "277"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -7938,7 +7938,7 @@ var ucsbBuildings = {
         "ref": "276"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -8191,7 +8191,7 @@ var ucsbBuildings = {
         "ref": "276"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -8337,7 +8337,7 @@ var ucsbBuildings = {
         "ref": "533"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -8504,7 +8504,7 @@ var ucsbBuildings = {
         "website": "http://ucsb.prestosports.com/information/dare_to_be_great/capital_projects/ica"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -8730,7 +8730,7 @@ var ucsbBuildings = {
         "ref": "516"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -10120,7 +10120,7 @@ var ucsbBuildings = {
         "ref": "516"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -10262,7 +10262,7 @@ var ucsbBuildings = {
         "ref": "511"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -10411,7 +10411,7 @@ var ucsbBuildings = {
         "ref": "511"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -10448,7 +10448,7 @@ var ucsbBuildings = {
         "ref": "565"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -10601,7 +10601,7 @@ var ucsbBuildings = {
         "ref": "517"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -10635,7 +10635,7 @@ var ucsbBuildings = {
         "ref": "517"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -11004,7 +11004,7 @@ var ucsbBuildings = {
         "ref": "538"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -11325,7 +11325,7 @@ var ucsbBuildings = {
         "ref": "563"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -11554,7 +11554,7 @@ var ucsbBuildings = {
         "ref": "557"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -11667,7 +11667,7 @@ var ucsbBuildings = {
         "ref": "657"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -11868,7 +11868,7 @@ var ucsbBuildings = {
         "ref": "567"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -12533,7 +12533,7 @@ var ucsbBuildings = {
         "wheelchair": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -12626,7 +12626,7 @@ var ucsbBuildings = {
         "ref": "544"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -12743,7 +12743,7 @@ var ucsbBuildings = {
         "ref": "615"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -12836,7 +12836,7 @@ var ucsbBuildings = {
         "ref": "573"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -12952,7 +12952,7 @@ var ucsbBuildings = {
         "ref": "937"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -12989,7 +12989,7 @@ var ucsbBuildings = {
         "ref": "504"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -13042,7 +13042,7 @@ var ucsbBuildings = {
         "ref": "572"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -13210,7 +13210,7 @@ var ucsbBuildings = {
         "ref": "937"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -13246,7 +13246,7 @@ var ucsbBuildings = {
         "ref": "937"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -13283,7 +13283,7 @@ var ucsbBuildings = {
         "ref": "225"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -13328,7 +13328,7 @@ var ucsbBuildings = {
         "ref": "225"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -13541,7 +13541,7 @@ var ucsbBuildings = {
         "ref": "266"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -13623,7 +13623,7 @@ var ucsbBuildings = {
         "ref": "532"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -13716,7 +13716,7 @@ var ucsbBuildings = {
         "ref": "568"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -14209,7 +14209,7 @@ var ucsbBuildings = {
         "ref": "552"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -14325,7 +14325,7 @@ var ucsbBuildings = {
         "ref": "388"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -14370,7 +14370,7 @@ var ucsbBuildings = {
         "ref": "381"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -14425,7 +14425,7 @@ var ucsbBuildings = {
         "building": "university"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -14461,7 +14461,7 @@ var ucsbBuildings = {
         "building": "university"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -14498,7 +14498,7 @@ var ucsbBuildings = {
         "name": "Bunker"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -14535,7 +14535,7 @@ var ucsbBuildings = {
         "name": "Public Safety"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -14659,7 +14659,7 @@ var ucsbBuildings = {
         "building": "university"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -14694,10 +14694,10 @@ var ucsbBuildings = {
         "building": "university",
         "name": "Loma Pelona Center",
         "ref": "876",
-        "type": "multipolygon"
+        "type": "multipolygon",
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -14764,10 +14764,10 @@ var ucsbBuildings = {
         "building": "university",
         "name": "Loma Pelona Center",
         "ref": "876",
-        "type": "multipolygon"
+        "type": "multipolygon",
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -14810,10 +14810,10 @@ var ucsbBuildings = {
         "building": "university",
         "name": "Loma Pelona Center",
         "ref": "876",
-        "type": "multipolygon"
+        "type": "multipolygon",
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -14874,7 +14874,7 @@ var ucsbBuildings = {
         "ref": "889"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -14943,7 +14943,7 @@ var ucsbBuildings = {
         "ref": "888"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -15004,7 +15004,7 @@ var ucsbBuildings = {
         "ref": "890"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -15065,7 +15065,7 @@ var ucsbBuildings = {
         "ref": "892"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -15138,7 +15138,7 @@ var ucsbBuildings = {
         "ref": "893"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -15199,7 +15199,7 @@ var ucsbBuildings = {
         "ref": "562"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -15349,7 +15349,7 @@ var ucsbBuildings = {
         "ref": "891"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -15402,7 +15402,7 @@ var ucsbBuildings = {
         "ref": "875"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -15447,7 +15447,7 @@ var ucsbBuildings = {
         "ref": "587"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -15772,7 +15772,7 @@ var ucsbBuildings = {
         "ref": "554"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -15849,7 +15849,7 @@ var ucsbBuildings = {
         "ref": "223"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -16178,7 +16178,7 @@ var ucsbBuildings = {
         "ref": "587"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -16527,7 +16527,7 @@ var ucsbBuildings = {
         "ref": "223"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -16621,7 +16621,7 @@ var ucsbBuildings = {
         "shop": "convenience"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -17035,7 +17035,7 @@ var ucsbBuildings = {
         "wikipedia": "en:Art, Design & Architecture Museum"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -17120,7 +17120,7 @@ var ucsbBuildings = {
         "ref": "528"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -17157,7 +17157,7 @@ var ucsbBuildings = {
         "ref": "564"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -17290,7 +17290,7 @@ var ucsbBuildings = {
         "ref": "528"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -17675,7 +17675,7 @@ var ucsbBuildings = {
         "ref": "591"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -17756,7 +17756,7 @@ var ucsbBuildings = {
         "ref": "535"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -17848,7 +17848,7 @@ var ucsbBuildings = {
         "ref": "477"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -17916,7 +17916,7 @@ var ucsbBuildings = {
         "ref": "320"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -17953,7 +17953,7 @@ var ucsbBuildings = {
         "ref": "479"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -18037,7 +18037,7 @@ var ucsbBuildings = {
         "ref": "300"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -18073,7 +18073,7 @@ var ucsbBuildings = {
         "ref": "327"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -18109,7 +18109,7 @@ var ucsbBuildings = {
         "ref": "382"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -18145,7 +18145,7 @@ var ucsbBuildings = {
         "ref": "990"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -18198,7 +18198,7 @@ var ucsbBuildings = {
         "ref": "878"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -18275,7 +18275,7 @@ var ucsbBuildings = {
         "ref": "877"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -18337,7 +18337,7 @@ var ucsbBuildings = {
         "ref": "881"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -18406,7 +18406,7 @@ var ucsbBuildings = {
         "ref": "882"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -18467,7 +18467,7 @@ var ucsbBuildings = {
         "ref": "883"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -18540,7 +18540,7 @@ var ucsbBuildings = {
         "ref": "879"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -18597,7 +18597,7 @@ var ucsbBuildings = {
         "ref": "880"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -18659,7 +18659,7 @@ var ucsbBuildings = {
         "ref": "886"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -18740,7 +18740,7 @@ var ucsbBuildings = {
         "ref": "885"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -18801,7 +18801,7 @@ var ucsbBuildings = {
         "ref": "884"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -18870,7 +18870,7 @@ var ucsbBuildings = {
         "ref": "887"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -18930,7 +18930,7 @@ var ucsbBuildings = {
         "ref": "698"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -18966,7 +18966,7 @@ var ucsbBuildings = {
         "ref": "384"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -19002,7 +19002,7 @@ var ucsbBuildings = {
         "ref": "380"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -19038,7 +19038,7 @@ var ucsbBuildings = {
         "ref": "699"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -19074,7 +19074,7 @@ var ucsbBuildings = {
         "ref": "697"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -19111,7 +19111,7 @@ var ucsbBuildings = {
         "ref": "575"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -19148,7 +19148,7 @@ var ucsbBuildings = {
         "ref": "539"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -19192,7 +19192,7 @@ var ucsbBuildings = {
         "ref": "539"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -19229,7 +19229,7 @@ var ucsbBuildings = {
         "name": "Santa Rosa Hall"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -19338,7 +19338,7 @@ var ucsbBuildings = {
         "ref": "547"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -19478,7 +19478,7 @@ var ucsbBuildings = {
         "ref": "334"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -19514,7 +19514,7 @@ var ucsbBuildings = {
         "ref": "338"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -19550,7 +19550,7 @@ var ucsbBuildings = {
         "ref": "342"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -19587,7 +19587,7 @@ var ucsbBuildings = {
         "ref": "529"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -19640,7 +19640,7 @@ var ucsbBuildings = {
         "ref": "543"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -19716,7 +19716,7 @@ var ucsbBuildings = {
         "ref": "321"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -19752,7 +19752,7 @@ var ucsbBuildings = {
         "ref": "319"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -19789,7 +19789,7 @@ var ucsbBuildings = {
         "ref": "451"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -19825,7 +19825,7 @@ var ucsbBuildings = {
         "ref": "570"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -19861,7 +19861,7 @@ var ucsbBuildings = {
         "ref": "316"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -19897,7 +19897,7 @@ var ucsbBuildings = {
         "ref": "313"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -19933,7 +19933,7 @@ var ucsbBuildings = {
         "ref": "489"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -19969,7 +19969,7 @@ var ucsbBuildings = {
         "ref": "232"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -20005,7 +20005,7 @@ var ucsbBuildings = {
         "ref": "935"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -20041,7 +20041,7 @@ var ucsbBuildings = {
         "ref": "936"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -20077,7 +20077,7 @@ var ucsbBuildings = {
         "ref": "402"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -20114,7 +20114,7 @@ var ucsbBuildings = {
         "ref": "672"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -20203,7 +20203,7 @@ var ucsbBuildings = {
         "ref": "346"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -20246,7 +20246,7 @@ var ucsbBuildings = {
         "building": "university"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -20282,7 +20282,7 @@ var ucsbBuildings = {
         "ref": "408"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -20366,7 +20366,7 @@ var ucsbBuildings = {
         "ref": "387"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -20402,7 +20402,7 @@ var ucsbBuildings = {
         "ref": "439"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -20486,7 +20486,7 @@ var ucsbBuildings = {
         "ref": "371"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -20522,7 +20522,7 @@ var ucsbBuildings = {
         "ref": "370"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -20559,7 +20559,7 @@ var ucsbBuildings = {
         "ref": "322"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -20595,7 +20595,7 @@ var ucsbBuildings = {
         "ref": "972"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -20631,7 +20631,7 @@ var ucsbBuildings = {
         "ref": "348"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -20667,7 +20667,7 @@ var ucsbBuildings = {
         "ref": "595"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -20703,7 +20703,7 @@ var ucsbBuildings = {
         "ref": "336"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -20738,7 +20738,7 @@ var ucsbBuildings = {
         "building": "university"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -20774,7 +20774,7 @@ var ucsbBuildings = {
         "ref": "322"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -20810,7 +20810,7 @@ var ucsbBuildings = {
         "ref": "536"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -20846,7 +20846,7 @@ var ucsbBuildings = {
         "ref": "594"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -20882,7 +20882,7 @@ var ucsbBuildings = {
         "building": "university"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -20919,7 +20919,7 @@ var ucsbBuildings = {
         "ref": "530"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -20955,7 +20955,7 @@ var ucsbBuildings = {
         "ref": "510"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -20991,7 +20991,7 @@ var ucsbBuildings = {
         "ref": "437"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -21095,7 +21095,7 @@ var ucsbBuildings = {
         "ref": "375"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -21131,7 +21131,7 @@ var ucsbBuildings = {
         "ref": "584"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -21188,7 +21188,7 @@ var ucsbBuildings = {
         "website": "http://www.library.ucsb.edu/"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -21437,7 +21437,7 @@ var ucsbBuildings = {
         "name": "KITP Housing"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -22026,7 +22026,7 @@ var ucsbBuildings = {
         "ref": "512"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -22182,7 +22182,7 @@ var ucsbBuildings = {
         "name": "Portola Dining Commons"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -22217,7 +22217,7 @@ var ucsbBuildings = {
         "building": "dormitory"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -22256,7 +22256,7 @@ var ucsbBuildings = {
         "building": "dormitory"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -22291,7 +22291,7 @@ var ucsbBuildings = {
         "building": "dormitory"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -22326,7 +22326,7 @@ var ucsbBuildings = {
         "building": "dormitory"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -22361,7 +22361,7 @@ var ucsbBuildings = {
         "building": "dormitory"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -22396,7 +22396,7 @@ var ucsbBuildings = {
         "building": "dormitory"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -22431,7 +22431,7 @@ var ucsbBuildings = {
         "building": "dormitory"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -22466,7 +22466,7 @@ var ucsbBuildings = {
         "building": "dormitory"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -22501,7 +22501,7 @@ var ucsbBuildings = {
         "building": "dormitory"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -22540,7 +22540,7 @@ var ucsbBuildings = {
         "building": "dormitory"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -22575,7 +22575,7 @@ var ucsbBuildings = {
         "building": "dormitory"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -22650,7 +22650,7 @@ var ucsbBuildings = {
         "building": "dormitory"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -22685,7 +22685,7 @@ var ucsbBuildings = {
         "building": "dormitory"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -22728,7 +22728,7 @@ var ucsbBuildings = {
         "building": "dormitory"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -22763,7 +22763,7 @@ var ucsbBuildings = {
         "building": "dormitory"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -22831,13 +22831,13 @@ var ucsbBuildings = {
               "building": "university",
               "name": "Student Communications Building",
               "ref": "589",
-              "type": "multipolygon"
+              "type": "multipolygon",
             }
           }
         ]
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -22920,7 +22920,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -22959,7 +22959,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -23014,7 +23014,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -23053,7 +23053,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -23128,7 +23128,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -23199,7 +23199,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -23270,7 +23270,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -23337,7 +23337,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -23408,7 +23408,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -23479,7 +23479,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -23546,7 +23546,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -23621,7 +23621,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -23692,7 +23692,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -23763,7 +23763,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -23838,7 +23838,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -23913,7 +23913,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -24092,7 +24092,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -24163,7 +24163,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -24238,7 +24238,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -24313,7 +24313,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -24384,7 +24384,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -24455,7 +24455,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -24526,7 +24526,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -24601,7 +24601,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -24672,7 +24672,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -24747,7 +24747,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -24822,7 +24822,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -24893,7 +24893,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -24960,7 +24960,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -25027,7 +25027,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -25102,7 +25102,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -25173,7 +25173,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -25244,7 +25244,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -25319,7 +25319,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -25390,7 +25390,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -25461,7 +25461,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -25532,7 +25532,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -25599,7 +25599,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -25670,7 +25670,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -25741,7 +25741,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -25808,7 +25808,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -25883,7 +25883,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -25958,7 +25958,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -26025,7 +26025,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -26092,7 +26092,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -26163,7 +26163,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -26239,7 +26239,7 @@ var ucsbBuildings = {
         "name": "Jameson Community Center"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -26274,7 +26274,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -26309,7 +26309,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -26348,7 +26348,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -26383,7 +26383,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -26450,7 +26450,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -26485,7 +26485,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -26524,7 +26524,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -26576,7 +26576,7 @@ var ucsbBuildings = {
         "name": "Casitas Community Center"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -26611,7 +26611,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -26650,7 +26650,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -26689,7 +26689,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -26724,7 +26724,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -26763,7 +26763,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -26802,7 +26802,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -26837,7 +26837,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -26876,7 +26876,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -26915,7 +26915,7 @@ var ucsbBuildings = {
         "building": "yes"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -27079,7 +27079,7 @@ var ucsbBuildings = {
         "landuse": "residential"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -27115,7 +27115,7 @@ var ucsbBuildings = {
         "landuse": "residential"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -27151,7 +27151,7 @@ var ucsbBuildings = {
         "landuse": "residential"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -27188,7 +27188,7 @@ var ucsbBuildings = {
         "landuse": "residential"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -27225,7 +27225,7 @@ var ucsbBuildings = {
         "landuse": "residential"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -27262,7 +27262,7 @@ var ucsbBuildings = {
         "landuse": "residential"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -27298,7 +27298,7 @@ var ucsbBuildings = {
         "landuse": "residential"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -27334,7 +27334,7 @@ var ucsbBuildings = {
         "landuse": "residential"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -27370,7 +27370,7 @@ var ucsbBuildings = {
         "landuse": "residential"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -27406,7 +27406,7 @@ var ucsbBuildings = {
         "landuse": "residential"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -27442,7 +27442,7 @@ var ucsbBuildings = {
         "landuse": "residential"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -27478,7 +27478,7 @@ var ucsbBuildings = {
         "landuse": "residential"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -27514,7 +27514,7 @@ var ucsbBuildings = {
         "landuse": "residential"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -27556,7 +27556,7 @@ var ucsbBuildings = {
         "name": "724 Kroeber Walk"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -27592,7 +27592,7 @@ var ucsbBuildings = {
         "landuse": "residential"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -27628,7 +27628,7 @@ var ucsbBuildings = {
         "landuse": "residential"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -27664,7 +27664,7 @@ var ucsbBuildings = {
         "landuse": "residential"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -27700,7 +27700,7 @@ var ucsbBuildings = {
         "landuse": "residential"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -27736,7 +27736,7 @@ var ucsbBuildings = {
         "landuse": "residential"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -27772,7 +27772,7 @@ var ucsbBuildings = {
         "landuse": "residential"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -27808,7 +27808,7 @@ var ucsbBuildings = {
         "landuse": "residential"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -27844,7 +27844,7 @@ var ucsbBuildings = {
         "landuse": "residential"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -27880,7 +27880,7 @@ var ucsbBuildings = {
         "landuse": "residential"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -27916,7 +27916,7 @@ var ucsbBuildings = {
         "landuse": "residential"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -27952,7 +27952,7 @@ var ucsbBuildings = {
         "landuse": "residential"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -27988,7 +27988,7 @@ var ucsbBuildings = {
         "landuse": "residential"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -28024,7 +28024,7 @@ var ucsbBuildings = {
         "landuse": "residential"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -28060,7 +28060,7 @@ var ucsbBuildings = {
         "landuse": "residential"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -28096,7 +28096,7 @@ var ucsbBuildings = {
         "landuse": "residential"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -28132,7 +28132,7 @@ var ucsbBuildings = {
         "landuse": "residential"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -28168,7 +28168,7 @@ var ucsbBuildings = {
         "landuse": "residential"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -28204,7 +28204,7 @@ var ucsbBuildings = {
         "landuse": "residential"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -28240,7 +28240,7 @@ var ucsbBuildings = {
         "levels": "2"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -28276,7 +28276,7 @@ var ucsbBuildings = {
         "landuse": "residential"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -28312,7 +28312,7 @@ var ucsbBuildings = {
         "landuse": "residential"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -28348,7 +28348,7 @@ var ucsbBuildings = {
         "landuse": "residential"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -28384,7 +28384,7 @@ var ucsbBuildings = {
         "landuse": "residential"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -28420,7 +28420,7 @@ var ucsbBuildings = {
         "landuse": "residential"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -28456,7 +28456,7 @@ var ucsbBuildings = {
         "landuse": "residential"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -28497,7 +28497,7 @@ var ucsbBuildings = {
         "building:levels": "2"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -28537,7 +28537,7 @@ var ucsbBuildings = {
         "name": "Toluca Village"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -28577,7 +28577,7 @@ var ucsbBuildings = {
         "name": "Nacimiento Village"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -28617,7 +28617,7 @@ var ucsbBuildings = {
         "name": "Berryessa Village"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -28653,7 +28653,7 @@ var ucsbBuildings = {
         "shop": "convenience"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -28701,7 +28701,7 @@ var ucsbBuildings = {
         "name": "Miramar Center"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -28749,7 +28749,7 @@ var ucsbBuildings = {
         "name": "Havasu Village"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -28785,7 +28785,7 @@ var ucsbBuildings = {
         "leisure": "fitness_centre"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -28825,7 +28825,7 @@ var ucsbBuildings = {
         "name": "Laguna Village"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -28866,7 +28866,7 @@ var ucsbBuildings = {
         "ref": "578"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [
@@ -28919,7 +28919,7 @@ var ucsbBuildings = {
         "ref": "580"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "polygon",
         "coordinates": [
           [
             [

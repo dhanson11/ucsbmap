@@ -12,7 +12,7 @@ Open new terminal tab
 Navigate to localhost:3000 to view
 
 ## Frontend TODO
-* Fix polygons with line through them
+* ~~Fix polygons with line through them~~
 * Search
   * Implement Redux
   * Autocomplete
