@@ -17,23 +17,37 @@ class Locations extends React.Component {
     this.setUpBuildings()
   }
   
+  addBuilding(building) {
+    var parsedBuilding = {name:`${building.properties.name}`, corners:building.geometry.coordinates}
+    this.buildings.push(parsedBuilding)
+  }
+  
   setUpBuildings() {
     ucsbBuildings.features.forEach(building => {
-      if(building.properties.name && building.geometry.type === "polygon" && !building.properties.type){
-        
-        if(building.properties.name === "Tower")
-          console.log(building);
-        var corners = []
-        
+      if(building.properties.name && building.geometry.type === "polygon" && !building.properties.type){        
         building.geometry.coordinates.forEach(coordinates => {
-          coordinates.forEach(coord => {
-            
-            corners.push([coord[1], coord[0]])
+          coordinates.forEach((coord, idx, coordinates) => {
+            coordinates[idx] = coord.reverse()
           })
         })
         
-        var parsedBuilding = {name:`${building.properties.name}`, corners:corners}
-        this.buildings.push(parsedBuilding)
+        this.addBuilding(building)
+      }
+      else if(building.properties.name && building.properties.type) {
+        building.geometry.coordinates.forEach((subArray, idx, array) => {
+          subArray.forEach((subArray, idx, array) => {
+            if(Array.isArray(subArray[0])){
+              subArray.forEach((subArray, idx, array) => {
+                array[idx] = subArray.reverse()
+              })
+            }
+            else{
+              array[idx] = subArray.reverse()
+            }
+          })
+        })
+        
+        this.addBuilding(building)
       }
     })
   }
@@ -41,7 +55,7 @@ class Locations extends React.Component {
   
   
   render() {
-    var buildingComponents = this.buildings.map(building => {
+    var buildings = this.buildings.map(building => {
       return(
         <div>
           <Location name={building.name} positions={building.corners} />
@@ -51,7 +65,7 @@ class Locations extends React.Component {
     
     return (
       <div>
-        {buildingComponents}
+        {buildings}
       </div>
     )
   }

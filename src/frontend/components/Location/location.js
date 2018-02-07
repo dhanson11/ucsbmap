@@ -2,6 +2,11 @@ import React, { Component } from 'react';
 import { Polygon, Popup } from 'react-leaflet'
 
 class Location extends React.Component {
+  // getPositions() {
+  //   if(this.props.type === "polygon"){
+  //     return this.props.positions
+  //   }
+  // }
   render() {
     return (
       <div>
