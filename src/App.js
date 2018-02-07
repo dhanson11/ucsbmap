@@ -4,31 +4,31 @@ import './App.css';
 import CampusMap from './frontend/components/CampusMap/CampusMap'
 
 class App extends Component {
-        
+
     constructor(props) {
       super(props);
-   
+
       this.state = {
-        greeting: "This is a greeting" 
+        headerText: "This is the header text"
       }
-    } 
- 
+    }
+
     componentDidMount() {
-        fetch("/greet").then(function(response) {
+        fetch("/headerText").then(function(response) {
                return response.text();
             }).then((text) => {
-                  this.setState({greeting: text})
+                  this.setState({headerText: text})
                 });
      }
- 
+
     render() {
      return (
       <div className="App">
-        <p>{this.state.greeting}</p>
+        <p>{this.state.headerText}</p>
         <CampusMap />
       </div>
     );
   }
 }
 
-export default App; 
+export default App;

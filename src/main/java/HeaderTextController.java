@@ -1,13 +1,13 @@
-package com.ucsbmap.greeting;
+package com.ucsbmap.header;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-public class GreetingController {
+public class HeaderTextController {
 
- @GetMapping("/greet")
+ @GetMapping("/headerText")
  public String greet() {
-  return "Hello world!";
+  return "UCSB Map";
  }
 }
