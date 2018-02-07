@@ -1,5 +1,8 @@
 # UCSB Map
 
+## View on Heroku
+https://ucsbmap.herokuapp.com/
+
 ## How To Run Locally
 
 * mvn clean package
