@@ -5,7 +5,7 @@ class Location extends React.Component {
   render() {
     return (
       <div>
-        <Polygon id='location' color="red" positions={this.props.positionList}>
+        <Polygon id='location' color="grey" positions={this.props.positions}>
           <Popup>
             <span>
                {this.props.name}
