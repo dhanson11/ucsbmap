@@ -12,7 +12,7 @@ class Location extends React.Component {
       <div>
         <Polygon id='location' color="grey" positions={this.props.positions}>
           <Popup>
-            <span>
+            <span onClick={console.log('click')}>
                {this.props.name}
              </span>
           </Popup>

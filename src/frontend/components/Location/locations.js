@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Polygon, Popup } from 'react-leaflet'
+import { Polygon, Popup, FeatureGroup } from 'react-leaflet'
 import Location from './location'
 import StreamArray from 'stream-json/utils/StreamArray'
 import fs from 'fs'
@@ -58,7 +58,7 @@ class Locations extends React.Component {
     var buildings = this.buildings.map(building => {
       return(
         <div>
-          <Location name={building.name} positions={building.corners} />
+            <Location name={building.name} positions={building.corners}/>
         </div>
       )
     })
